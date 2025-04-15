@@ -14,7 +14,7 @@ The recommended way to install the library is using [Composer](https://getcompos
 ```json
 {
     "require": {
-        "beanstream/beanstream": "dev-master"
+        "sassoleo/beanstream": "dev-master"
     }
 }
 ```
